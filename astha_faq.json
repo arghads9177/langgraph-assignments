@@ -1,0 +1,188 @@
+[
+    {
+      "question": "What is the purpose of this Construction Management Web App?",
+      "answer": "This app is designed to streamline and manage various aspects of construction projects, including user and role management, material and labour management, project scheduling, marketing, and accounting. It provides tools to improve efficiency, reduce errors, and optimize project workflows."
+    },
+    {
+      "question": "Who can use this app?",
+      "answer": "The app is ideal for construction companies, contractors, project managers, and real estate developers who need to manage multiple projects, resources, and financials efficiently."
+    },
+    {
+      "question": "How do I add a new user?",
+      "answer": "Go to the User Management section and select Add New User. Fill out the required details like name, role, and permissions, and then click Save."
+    },
+    {
+      "question": "Can I edit user information?",
+      "answer": "Yes, navigate to the User Listing page, find the user you want to edit, and click the Edit button. Update the necessary information and save your changes."
+    },
+    {
+      "question": "Is there a way to search for a specific user?",
+      "answer": "Yes, use the Search bar on the User Listing page to quickly locate users by their name, role, or other attributes."
+    },
+    {
+      "question": "How do I remove a user?",
+      "answer": "Go to the User Listing page, find the user, and click the Remove button. Confirm the deletion to permanently remove the user."
+    },
+    {
+      "question": "What types of information can I manage in the Master Information section?",
+      "answer": "The Master Information section allows you to manage key details related to works, materials, vendors, properties, contractors, labour, and company branches."
+    },
+    {
+      "question": "How do I update contractor information?",
+      "answer": "Navigate to Contractor Management, select the contractor, click Edit, update the necessary fields, and save."
+    },
+    {
+      "question": "How can I add land information?",
+      "answer": "Go to Land Management, click on Add Land Information, and fill in details such as location, size, and ownership. Save the entry to add it to the system."
+    },
+    {
+      "question": "Can I estimate the profitability of a land parcel?",
+      "answer": "Yes, use the Profitability Estimation Entry feature under Land Management to calculate potential profits based on project parameters."
+    },
+    {
+      "question": "How do I schedule a project?",
+      "answer": "Use the Project Scheduling tool to define tasks, assign resources, and set timelines. The system provides visual schedules to help you manage progress."
+    },
+    {
+      "question": "Can I estimate material and labour requirements?",
+      "answer": "Yes, the Material Estimation and Labour Estimation tools allow you to calculate requirements based on project plans and scope."
+    },
+    {
+      "question": "What is Material Requisition?",
+      "answer": "Material Requisition is the process of requesting materials required for a project. Use the Material Requisition feature to submit requests and track approvals."
+    },
+    {
+      "question": "How can I add a property booking?",
+      "answer": "Go to Marketing Management, select Add Booking, and enter customer and property details. Save the entry to confirm the booking."
+    },
+    {
+      "question": "Can I schedule payments for bookings?",
+      "answer": "Yes, use the Payment Scheduling feature to define payment milestones and deadlines for each booking."
+    },
+    {
+      "question": "How do I cancel a booking?",
+      "answer": "Navigate to Booking List, find the booking, and click Cancel. Confirm the cancellation to update the system."
+    },
+    {
+      "question": "What financial reports can I generate?",
+      "answer": "The app provides various reports, including: Profit & Loss Statement, Project Income/Expenditure Report, Yearly and Monthly Sales Summary, and Outstanding Reports."
+    },
+    {
+      "question": "Can I manage vendor and contractor payments?",
+      "answer": "Yes, under Voucher Management, you can track and process payments to vendors and contractors, including TDS and other deductions."
+    },
+    {
+      "question": "How do I handle bank account transfers?",
+      "answer": "Use the Bank A/c Transfer feature to move funds between accounts. Record the transaction details for accurate bookkeeping."
+    },
+    {
+      "question": "What kinds of project reports are available?",
+      "answer": "The app includes: Estimated Cost Summary, Project Cost Summary, Material Stock and Purchase Summary, Work Schedule Report, and Profitability Estimation Report."
+    },
+    {
+      "question": "How can I generate a sale deed register?",
+      "answer": "Go to Report Generation, select Sale Deed Register, and filter by project or date range to generate the report."
+    },
+    {
+      "question": "How do I report a bug or request support?",
+      "answer": "Use the Help section in the app or contact our support team via email or phone. Provide a detailed description of the issue for faster resolution."
+    },
+    {
+      "question": "Is there a user manual available?",
+      "answer": "Yes, a comprehensive user manual is available in the Documentation section of the app. You can also access video tutorials for common tasks."
+    },
+        {
+          "question": "What is eCollect?",
+          "answer": "eCollect is an all-in-one web and mobile application designed to streamline service collections, manage consumer records, and centralize financial operations for service-based businesses."
+        },
+        {
+          "question": "Who is eCollect for?",
+          "answer": "eCollect is perfect for service-based businesses, including utility providers, subscription services, and any organization that needs to manage service collections and consumer relationships efficiently."
+        },
+        {
+          "question": "What platforms is eCollect available on?",
+          "answer": "eCollect is available as both a web application and a mobile app, ensuring you can manage your business operations on the go or from your desktop."
+        },
+        {
+          "question": "How do I create a new user account?",
+          "answer": "Navigate to the User Management section, click on Add New User, fill in the required details such as name, role, and email, and save the information."
+        },
+        {
+          "question": "Can I edit an existing user’s information?",
+          "answer": "Yes, go to the User List, select the user you wish to edit, click Edit, make the necessary changes, and save."
+        },
+        {
+          "question": "What happens when I deactivate a user account?",
+          "answer": "Deactivating a user account restricts their access to the system while retaining their data for future reference."
+        },
+        {
+          "question": "Is there a forgot password feature?",
+          "answer": "Yes, users can reset their passwords securely through the Forgot Password option on the login screen."
+        },
+        {
+          "question": "How can I add a new consumer?",
+          "answer": "Go to Consumer Management, click on Add Consumer, and fill in the required information, such as name, contact details, and service information. Save the entry to add the consumer to the system."
+        },
+        {
+          "question": "Can I search for a specific consumer?",
+          "answer": "Yes, use the search bar in the Consumer Management section to locate consumers by their name, ID, or other attributes."
+        },
+        {
+          "question": "How do I update consumer details?",
+          "answer": "Select the consumer from the list, click Edit, make the necessary updates, and save the changes."
+        },
+        {
+          "question": "How do I create a new service?",
+          "answer": "Navigate to Service Management, click on Add Service, and provide a detailed description of the service. Save the entry to include it in your catalogue."
+        },
+        {
+          "question": "Can I edit or delete existing services?",
+          "answer": "Yes, go to the service list, select the service you want to edit or delete, and perform the desired action."
+        },
+        {
+          "question": "How can I create a new collection?",
+          "answer": "In the Collection Management section, click on Add Collection, specify the consumer, invoice details, and due dates, and save the collection."
+        },
+        {
+          "question": "How do I view a consumer’s collection history?",
+          "answer": "Go to the consumer’s profile in the Consumer Management section and select View Collection History to see all their past transactions."
+        },
+        {
+          "question": "Is there a way to track total collections?",
+          "answer": "Yes, the Collection Dashboard provides a summary of total collections, helping you monitor financial performance at a glance."
+        },
+        {
+          "question": "How do I create a new post?",
+          "answer": "Go to Post Management, click on Add Post, write your announcement or update, and select the target consumer group. Save the post to share it."
+        },
+        {
+          "question": "Can consumers interact with posts?",
+          "answer": "Yes, consumers can like and comment on posts, fostering engagement and improving communication."
+        },
+        {
+          "question": "Can I target specific consumer groups with my posts?",
+          "answer": "Yes, use the filtering options to select the desired consumer group before publishing your post."
+        },
+        {
+          "question": "What accounting tasks can I perform with eCollect?",
+          "answer": "You can manage ledgers, track income and liabilities, record expenses and assets, and handle cash and bank transactions."
+        },
+        {
+          "question": "How do I manage multiple accounts?",
+          "answer": "In the Accounting section, you can create and manage separate accounts for cash, bank deposits, withdrawals, and transfers."
+        },
+        {
+          "question": "What financial reports are available?",
+          "answer": "eCollect provides detailed reports, including account ledgers, bank books, cash books, and statements for comprehensive financial analysis."
+        },
+        {
+          "question": "How do I report an issue or get technical support?",
+          "answer": "Use the Help section in the app to contact our support team. You can also reach us via email or phone for assistance."
+        },
+        {
+          "question": "Is there a user manual or training available?",
+          "answer": "Yes, a user manual is available in the Documentation section of the app. You can also access training videos and tutorials for common tasks."
+        }
+]
+      
+  
